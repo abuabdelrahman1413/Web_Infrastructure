@@ -156,3 +156,31 @@ Hypertext Transfer Protocol Secure (HTTPS) is the secure version of HTTP. It enc
 - **Port 443:** Used for HTTPS, offers secure connections but can be slower.
 
 ---
+## What is System Redundancy?
+
+System redundancy refers to the principle of duplicating critical components or systems to ensure continued operation in case of component failure or maintenance.
+
+## Lamp
+Linux
+Apache
+MySQL
+Php/perl/python
+
+## SPOF 
+single point of failure.
+
+Single Point of Failure (SPOF) is a critical concept in system design, referring to a single component or system that, if it fails, can bring the entire system down.
+
+## Query Per Second (QPS)
+
+Query Per Second (QPS) refers to the average number of queries or requests processed by a system, database, or application within a one-second time frame .
+
+
+---
+## some common web-related terms:
+1. Server:
+    A computer system or software program that provides functionality for other programs or devices known as clients.
+2. client:
+    is a software program used to connect to a server.
+3. Host:
+    is a device which store a web app or any resources which later need to be served.
